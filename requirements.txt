@@ -1,2 +1,5 @@
-flask
+Flask
+flask-socketio
+eventlet
 gunicorn
+werkzeug
